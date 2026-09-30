@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532017246291",
+    "project_id": "gucfood-7a3f0",
+    "storage_bucket": "gucfood-7a3f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532017246291:android:64a10577712cb42c9cd6a6",
+        "android_client_info": {
+          "package_name": "com.guc.gucfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs995WpEJDc65FEOXsYDqYi5QtDSvaqa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
